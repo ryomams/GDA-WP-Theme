@@ -1,5 +1,5 @@
 # GDA-WP-Theme
-WordPress theme for GDACollab.org.
+WordPress theme for http://gdacollab.org/
 
 
 
